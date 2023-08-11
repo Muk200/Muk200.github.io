@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(photos/bgremoved.png); 
+    background-image: url(bgremoved.png); 
     background-repeat: no-repeat; 
     background-position: right;
     background-attachment: fixed;
@@ -22,7 +22,7 @@ body{
 #header2{
     width: 100%;
     height: 100vh;
-    background-image: url(photos/backgroundremove.png);
+    background-image: url(backgroundremove.png);
     background-repeat: no-repeat; 
     background-position: fixed; left: 0;
 }
@@ -55,7 +55,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #00ffff;
+    background: #800080;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -74,7 +74,7 @@ nav ul li a:hover::after{
     font-size: 40px;
 }
 .header-text h1 span{
-    color: #00ffff;
+    color: #800080;
 }
 
 
@@ -124,7 +124,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #00ffff;
+    background: #800080;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -139,7 +139,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #00ffff;
+    color: #800080;
     font-size: 14px;
 }
 .tab-contents{
@@ -192,7 +192,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .work-list div:hover{
-    background: #00ffff;
+    background: #800080;
     transform: translateY(-10px);
 }
 
@@ -224,7 +224,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.5), #00ffff);
+    background: linear-gradient(rgba(0,0,0,0.5), #800080);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -265,7 +265,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #00ffff;
+    border: 1px solid #800080;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -273,7 +273,7 @@ nav ul li a:hover::after{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #00ffff;
+    background: #800080;
 }
 
 
@@ -289,7 +289,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 .contact_left p i{
-    color: #00ffff;
+    color: #800080;
     margin-right: 15px;
     font-size: 25;
 }
@@ -305,12 +305,12 @@ nav ul li a:hover::after{
     transition: transform 0.5s;
 }
 .social-icons a:hover{
-    color: #00ffff;
+    color: #800080;
     transform: translateY(-5px);
 }
 .btn.btn2{
     display: inline-block;
-    background: #00ffff;
+    background: #800080;
 }
 .copyright{
     width: 100%;
@@ -344,7 +344,7 @@ nav .fas{
         font-size: 25px;
     }
     nav ul{
-        background: #00ffff;
+        background: #800080;
         position: fixed;
         top: 0;
         right: -200px;
